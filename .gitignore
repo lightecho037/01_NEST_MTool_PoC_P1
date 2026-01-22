@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Node/web
+node_modules/
+dist/
+build/
+
+# VS Code (optional)
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs/caches
+*.log
+.cache/
+
+# Backups
+backups/
+
+# AutoGen Studio state (DB + files)
+.autogenstudio*/
